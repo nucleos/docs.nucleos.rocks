@@ -6,7 +6,7 @@ repository:
   name: docs.nucleos.rocks
   description: 📖 Documentation for all nucleos projects
   homepage: https://docs.nucleos.rocks
-  topics: documentation
+  topics: hacktoberfest, documentation
 
 branches:
   - name: main
